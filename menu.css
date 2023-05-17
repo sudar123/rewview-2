@@ -1,0 +1,117 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #426a94;
+  }
+  
+  /* Header styles */
+  header {
+   background-color: rgb(219, 247, 11);
+    padding: 10px;
+    display: flex;
+    align-items: center;
+  }
+  *ppp{
+   align-items: center;
+
+  }
+  
+  .logo img {
+    height: 30px;
+    width: auto;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  /* Main styles */
+  main {
+    padding: 20px;
+  }
+  
+  #hero {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  #hero h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  #hero p {
+    color: #888;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  /* About section styles */
+  #about {
+    margin-bottom: 40px;
+  }
+  
+  #about h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Menu section styles */
+  #menu {
+    margin-bottom: 40px;
+  }
+  
+  #menu h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Reservations section styles */
+  #reservations {
+    margin-bottom: 40px;
+  }
+  
+  #reservations h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Contact section styles */
+  #contact {
+    margin-bottom: 40px;
+  }
+  
+  #contact h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
